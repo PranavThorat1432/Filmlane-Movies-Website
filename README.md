@@ -71,7 +71,9 @@ Filmlane/
 ├── movie-detailsX16.html
 └── README.md
 ```
+## Live Link
 
+Here is the Preview of the projct where you can see the live hosted website: https://filmlane-movies-website.vercel.app/
 ---
 
 ## Future Enhancements
